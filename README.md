@@ -71,7 +71,8 @@ Tools & Technologies
 - CSV Dataset – Telecom customer data source
 
 Why This Project Matters
+
 This dashboard converts complex churn data into clear visual insights, helping businesses understand why customers leave and where retention efforts should be focused.
 
 
-<img width="1205" height="688" alt="Snapshot of Telecom insights.png" src="https://github.com/user-attachments/assets/127d3627-9808-4210-88a0-050fbe6b4b68" />
+<img width="1205" height="688" alt="Snapshot of Telecom insights.png" src="[https://github.com/user-attachments/assets/127d3627-9808-4210-88a0-050fbe6b4b68](https://github.com/gita-mankar/Power-Bi_Dashboards/blob/main/Snapshot%20of%20Telecom%20insights.png)" />
