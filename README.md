@@ -10,7 +10,7 @@ Objectives
 - To track outlet establishment growth trends over time.  
 - To provide insights into customer ratings and sales distribution by outlet and location.
 
-ey Insights from the Dashboard
+Key Insights from the Dashboard
 - Total Sales: $1.20M with an average sale of $141.  
 - Total Items: 8,523 items analyzed with an average rating of 3.9.  
 - Top Outlet Type: Supermarket outlets generated the highest sales ($788K).  
