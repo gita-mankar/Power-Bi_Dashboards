@@ -34,6 +34,8 @@ Tools & Technologies
 
 <img width="1205" height="688" alt="Snapshot of Blinkit dashboard" src="https://github.com/user-attachments/assets/127d3627-9808-4210-88a0-050fbe6b4b68" />
 
+
+
 Customer Churn Analysis Dashboard
 
 Overview
